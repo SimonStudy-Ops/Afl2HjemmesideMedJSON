@@ -1,4 +1,4 @@
-<div style="width: 100%; overflow: hidden;">
+<div style="width: 100%; overflow: hidden; white-space: nowrap;">
   <div style="display: flex; animation: scroll 10s linear infinite;">
     <div style="min-width: 100%; box-sizing: border-box;">
       <img src="image.png" alt="First Image" style="width: 100%;">
