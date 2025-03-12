@@ -1,0 +1,15 @@
+/* Her laver vi en gradient baggrund til vores body, table kunne jeg ikke få til at virke */
+body{
+    background: linear-gradient(to right, #ffcee3, #ff758c);
+}
+table{
+    background: linear-gradient(to right, #ffcee3, #ff758c);
+}
+.table-gradient{
+background: linear-gradient(to right, #ffcee3, #ff758c);
+color: black;
+}
+.table-gradient th,
+.table-gradient td {
+  background: transparent; /* gør celler gennemsigte */
+}
